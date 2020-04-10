@@ -1,0 +1,5 @@
+time_stamp, student_id, laptop_id
+Fri 24 Jan 2020 17:28,17229042,131
+
+Fri 24 Jan 2020 18:58,17229041,130
+Sat 25 Jan 2020 11:20,17229041,130
